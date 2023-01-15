@@ -1,3 +1,16 @@
+# Skyfactory 2.5 MineCraft Server Docker
+
+This repo is a fork of https://github.com/TrueOsiris/docker-minecraft-skyfactory4
+
+I have altered it to work for SkyFactory 2.5
+
+You can get the docker image at https://hub.docker.com/r/daltonsbaker/skyfactory2_5
+
+
+I will change this readme at some point.
+
+
+
 # docker minecraft Skyfactory 4
 
 [![Docker Pulls](https://badgen.net/docker/pulls/trueosiris/minecraft-skyfactory4?icon=docker&label=pulls)](https://hub.docker.com/r/trueosiris/minecraft-skyfactory4/) [![Docker Stars](https://badgen.net/docker/stars/trueosiris/minecraft-skyfactory4?icon=docker&label=stars)](https://hub.docker.com/r/trueosiris/minecraft-skyfactory4/) [![Docker Image Size](https://badgen.net/docker/size/trueosiris/minecraft-skyfactory4?icon=docker&label=image%20size)](https://hub.docker.com/r/trueosiris/minecraft-skyfactory4/) ![Github Commits](https://badgen.net/github/commits/trueosiris/docker-minecraft-skyfactory4?icon=github&label=commits) ![GitHub last commit](https://badgen.net/github/last-commit/trueosiris/docker-minecraft-skyfactory4?icon=github&label=last%20commit) ![Github stars](https://badgen.net/github/stars/trueosiris/docker-minecraft-skyfactory4?icon=github&label=stars) ![Github forks](https://badgen.net/github/forks/trueosiris/docker-minecraft-skyfactory4?icon=github&label=forks)

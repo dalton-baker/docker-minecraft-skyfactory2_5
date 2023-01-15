@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -e
-forgejar="forge-1.12.2-14.23.5.2860.jar"
+forgejar="forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
 
 cd /data
 
