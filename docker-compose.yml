@@ -1,8 +1,9 @@
+version: "3.9"
 services:
   skyfactory2_5:
     image: daltonsbaker/skyfactory2_5
     volumes:
       - /your/local/dir:/data
     ports:
-      - 25566:25565
+      - 25565:25565
     restart: unless-stopped

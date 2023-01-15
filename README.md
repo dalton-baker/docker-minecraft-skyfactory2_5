@@ -1,4 +1,4 @@
-# Skyfactory 2.5 MineCraft Server Docker
+# Skyfactory 2.5 Minecraft Server Docker
 
 This repo is a fork of https://github.com/TrueOsiris/docker-minecraft-skyfactory4
 
